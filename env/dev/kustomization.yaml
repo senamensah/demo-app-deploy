@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/senamensah/demo-app
-  newTag: latest
+  newTag: e8f77d00f69062e09dd9555ad41a5c66bdfb8c94
