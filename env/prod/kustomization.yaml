@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/senamensah/demo-app
+  newTag: 845828715a85150052f5d3f759df969f5966eb42
